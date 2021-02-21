@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425755815157",
+    "project_id": "deteccionfacial-edb4c",
+    "storage_bucket": "deteccionfacial-edb4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425755815157:android:91d0cfb3463a468ca9e9bc",
+        "android_client_info": {
+          "package_name": "com.example.deteccionfacial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425755815157-tul0igoo72hqjkr5h764h2uqp3ksk509.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGbazpLlNmRPI_GUgCinJYdCEGA6ETarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425755815157-tul0igoo72hqjkr5h764h2uqp3ksk509.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
